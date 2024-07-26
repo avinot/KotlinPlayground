@@ -6,8 +6,8 @@ build/
 
 ### IntelliJ IDEA ###
 /.idea/
-!**/.idea/**/*.xml
 !**/.idea/**/*.iml
+!**/.idea/**/*.xml
 **/.idea/workspace.xml
 **/.idea/tasks.xml
 *.iws
